@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, Verdana,  sans-serif; 
+    font-size: 14px; 
+    background-color: #f3f3f2;
+    color: rgb(0, 0, 0); 
+    width: 80%;
+    margin: 50px 50px 50px;
+}
+h1 {
+    text-align: justify;
+    color: #dce312; /* Цвет заголовка */
+    font-size: 34px; /* Размер шрифта в пунктах */
+    font-family: Roboto, serif; /* Семейство шрифтов */
+    font-weight: normal; /* Нормальное начертание текста  */
+  }
+h2 {
+    text-align: justify;
+    color: #b82207; /* Цвет заголовка */
+    font-size: 30px; /* Размер шрифта в пунктах */
+    font-family: Patrick Hand, serif; /* Семейство шрифтов */
+    font-weight: normal; /* Нормальное начертание текста  */
+  }
+h3 {
+    text-align: justify;
+    color: #111d02; /* Цвет заголовка */
+    font-size: 24px; /* Размер шрифта в пунктах */
+    font-family: Georgia, Times, serif; /* Семейство шрифтов */
+    font-weight: normal; /* Нормальное начертание текста  */
+  }
+p {
+    text-align: justify; /* Выравнивание по ширине */
+    margin: 10px 10px 10px; /* Отступ слева в пикселах */
+  }
+.menu {
+    padding: 7px; /* Поля вокруг текста */
+    border: 1px solid #333; /* Параметры рамки */
+    background: rgba(253, 254, 252, 0.892); /* Цвет фона */
+}
+.red{
+  text-align: justify;
+  color: #a70909; /* Цвет заголовка */
+  font-size: 16px; /* Размер шрифта в пунктах */
+  font-family: Georgia, Times, serif; /* Семейство шрифтов */
+  font-weight: normal; 
+}
+.green {
+  text-align: justify;
+  color: #04850f; /* Цвет заголовка */
+  font-size: 16px; /* Размер шрифта в пунктах */
+  font-family: Georgia, Times, serif; /* Семейство шрифтов */
+  font-weight: normal; 
+}
